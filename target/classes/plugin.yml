@@ -1,0 +1,8 @@
+name: WorldExplorerGuard
+main: com.gmail.gephery.guard.main.WorldExplorerGuard
+version: 1.0.0
+author: Gephery
+commands:
+  weg:
+    description: Access to full suite of WEG commands.
+    usage: /weg <select:create:edit>
